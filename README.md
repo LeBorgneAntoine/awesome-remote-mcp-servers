@@ -1012,7 +1012,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - SEC EDGAR filings as JSON: Form 4 insider trades, 8-K, 13F, 13D/G stakes, XBRL; data tools need a free key.
 - [Factur-X by Orvel](https://facturx.orvel.dev/docs/mcp/) `https://facturx.orvel.dev/mcp`
   [![Factur-X by Orvel MCP connector](https://glama.ai/mcp/connectors/io.github.LeBorgneAntoine/facturx/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.LeBorgneAntoine/facturx)
-  🔓 - Generate, validate and read Factur-X, CII and UBL invoices; free fixed demo, paid document processing.
+  🔓 - Generate, validate and read Factur-X, CII and UBL invoices; free fixed demo, bounded account trial and paid plans.
 - [Fast GST Refund](https://fastgstrefund.com/for-agents/) `https://fastgstrefund.com/mcp`
   [![Fast GST Refund MCP connector](https://glama.ai/mcp/connectors/com.fastgstrefund/fast-gst-refund/badges/score.svg)](https://glama.ai/mcp/connectors/com.fastgstrefund/fast-gst-refund)
   🔓 - Indian GST refund guidance, validation and Statement 3/Annexure B JSON; free checks, optional OAuth for downloads.
